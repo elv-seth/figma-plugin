@@ -1,0 +1,10 @@
+{
+  "name": "seth-figma-plugin",
+  "id": "1121540446342022294",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figjam"
+  ],
+  "enablePrivatePluginApi": true
+}

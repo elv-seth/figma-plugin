@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["es2018","DOM"],
+    "typeRoots": [
+      "./node_modules/@figma",
+     "./node_modules/@types"
+    ],
+    "moduleResolution": "node"
+  },
+  "exclude": ["./node_modules"],
+  "include": ["src/"]
+}
